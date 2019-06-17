@@ -1,0 +1,22 @@
+nbuser@nbserver:~$ ls -l
+total 40
+drwxr-xr-x   1 nbuser nbuser  4096 May  1 07:01 anaconda2_501
+drwxr-xr-x   1 nbuser nbuser  4096 May  1 07:01 anaconda3_420
+drwxr-xr-x   1 nbuser nbuser  4096 May  1 07:01 anaconda3_501
+drwxr-xr-x  14 nbuser nbuser  4096 May  1 07:00 IfSharp
+drwxr-xr-x   2 nbuser nbuser     0 Jan  1  1970 library
+drwxr-xr-x 757 nbuser nbuser 20480 Jan 18  2018 R
+nbuser@nbserver:~$ cd library
+nbuser@nbserver:~/library$ ls -l
+total 0
+-rw-r--r-- 1 nbuser nbuser   5263 Apr 22 02:16 Guidance.ipynb
+-rw-r--r-- 1 nbuser nbuser 368416 Apr 15 03:00 guidance_picture_1.png
+drwxr-xr-x 2 nbuser nbuser      0 Jun 10 02:23 Machine_Learning_2019_1
+drwxr-xr-x 2 nbuser nbuser      0 Jun 10 02:15 Machine_Learning_2019_2
+-rw-r--r-- 1 nbuser nbuser  13740 May 27 02:16 MeanMedianMode.ipynb
+-rw-r--r-- 1 nbuser nbuser  64054 May 27 03:11 Outliers_init.ipynb
+-rw-r--r-- 1 nbuser nbuser  28235 May 27 02:04 Python Basic_1.ipynb
+-rw-r--r-- 1 nbuser nbuser 204295 Jun  3 02:50 Python_Basic_3_init.ipynb
+-rw-r--r-- 1 nbuser nbuser      0 Apr 15 02:49 README.md
+-rw-r--r-- 1 nbuser nbuser  12414 Jun  3 02:47 titanic_pie_chart_02.png
+-rw-r--r-- 1 nbuser nbuser     58 Apr 15 02:52 Untitled.ipynb
